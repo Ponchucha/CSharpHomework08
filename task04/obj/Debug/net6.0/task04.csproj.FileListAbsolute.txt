@@ -1,0 +1,15 @@
+D:\YADISK\YandexDisk\Гостиница\Аннины материалы\Анина учёба\C sharp education\homework08\task04\obj\Debug\net6.0\task04.csproj.AssemblyReference.cache
+D:\YADISK\YandexDisk\Гостиница\Аннины материалы\Анина учёба\C sharp education\homework08\task04\obj\Debug\net6.0\task04.GeneratedMSBuildEditorConfig.editorconfig
+D:\YADISK\YandexDisk\Гостиница\Аннины материалы\Анина учёба\C sharp education\homework08\task04\obj\Debug\net6.0\task04.AssemblyInfoInputs.cache
+D:\YADISK\YandexDisk\Гостиница\Аннины материалы\Анина учёба\C sharp education\homework08\task04\obj\Debug\net6.0\task04.AssemblyInfo.cs
+D:\YADISK\YandexDisk\Гостиница\Аннины материалы\Анина учёба\C sharp education\homework08\task04\obj\Debug\net6.0\task04.csproj.CoreCompileInputs.cache
+D:\YADISK\YandexDisk\Гостиница\Аннины материалы\Анина учёба\C sharp education\homework08\task04\bin\Debug\net6.0\task04.exe
+D:\YADISK\YandexDisk\Гостиница\Аннины материалы\Анина учёба\C sharp education\homework08\task04\bin\Debug\net6.0\task04.deps.json
+D:\YADISK\YandexDisk\Гостиница\Аннины материалы\Анина учёба\C sharp education\homework08\task04\bin\Debug\net6.0\task04.runtimeconfig.json
+D:\YADISK\YandexDisk\Гостиница\Аннины материалы\Анина учёба\C sharp education\homework08\task04\bin\Debug\net6.0\task04.dll
+D:\YADISK\YandexDisk\Гостиница\Аннины материалы\Анина учёба\C sharp education\homework08\task04\bin\Debug\net6.0\task04.pdb
+D:\YADISK\YandexDisk\Гостиница\Аннины материалы\Анина учёба\C sharp education\homework08\task04\obj\Debug\net6.0\task04.dll
+D:\YADISK\YandexDisk\Гостиница\Аннины материалы\Анина учёба\C sharp education\homework08\task04\obj\Debug\net6.0\refint\task04.dll
+D:\YADISK\YandexDisk\Гостиница\Аннины материалы\Анина учёба\C sharp education\homework08\task04\obj\Debug\net6.0\task04.pdb
+D:\YADISK\YandexDisk\Гостиница\Аннины материалы\Анина учёба\C sharp education\homework08\task04\obj\Debug\net6.0\task04.genruntimeconfig.cache
+D:\YADISK\YandexDisk\Гостиница\Аннины материалы\Анина учёба\C sharp education\homework08\task04\obj\Debug\net6.0\ref\task04.dll

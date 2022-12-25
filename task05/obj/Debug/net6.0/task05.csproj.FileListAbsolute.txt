@@ -1,0 +1,15 @@
+D:\YADISK\YandexDisk\Гостиница\Аннины материалы\Анина учёба\C sharp education\homework08\task05\obj\Debug\net6.0\task05.csproj.AssemblyReference.cache
+D:\YADISK\YandexDisk\Гостиница\Аннины материалы\Анина учёба\C sharp education\homework08\task05\obj\Debug\net6.0\task05.GeneratedMSBuildEditorConfig.editorconfig
+D:\YADISK\YandexDisk\Гостиница\Аннины материалы\Анина учёба\C sharp education\homework08\task05\obj\Debug\net6.0\task05.AssemblyInfoInputs.cache
+D:\YADISK\YandexDisk\Гостиница\Аннины материалы\Анина учёба\C sharp education\homework08\task05\obj\Debug\net6.0\task05.AssemblyInfo.cs
+D:\YADISK\YandexDisk\Гостиница\Аннины материалы\Анина учёба\C sharp education\homework08\task05\obj\Debug\net6.0\task05.csproj.CoreCompileInputs.cache
+D:\YADISK\YandexDisk\Гостиница\Аннины материалы\Анина учёба\C sharp education\homework08\task05\bin\Debug\net6.0\task05.exe
+D:\YADISK\YandexDisk\Гостиница\Аннины материалы\Анина учёба\C sharp education\homework08\task05\bin\Debug\net6.0\task05.deps.json
+D:\YADISK\YandexDisk\Гостиница\Аннины материалы\Анина учёба\C sharp education\homework08\task05\bin\Debug\net6.0\task05.runtimeconfig.json
+D:\YADISK\YandexDisk\Гостиница\Аннины материалы\Анина учёба\C sharp education\homework08\task05\bin\Debug\net6.0\task05.dll
+D:\YADISK\YandexDisk\Гостиница\Аннины материалы\Анина учёба\C sharp education\homework08\task05\bin\Debug\net6.0\task05.pdb
+D:\YADISK\YandexDisk\Гостиница\Аннины материалы\Анина учёба\C sharp education\homework08\task05\obj\Debug\net6.0\task05.dll
+D:\YADISK\YandexDisk\Гостиница\Аннины материалы\Анина учёба\C sharp education\homework08\task05\obj\Debug\net6.0\refint\task05.dll
+D:\YADISK\YandexDisk\Гостиница\Аннины материалы\Анина учёба\C sharp education\homework08\task05\obj\Debug\net6.0\task05.pdb
+D:\YADISK\YandexDisk\Гостиница\Аннины материалы\Анина учёба\C sharp education\homework08\task05\obj\Debug\net6.0\task05.genruntimeconfig.cache
+D:\YADISK\YandexDisk\Гостиница\Аннины материалы\Анина учёба\C sharp education\homework08\task05\obj\Debug\net6.0\ref\task05.dll
